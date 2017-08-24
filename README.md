@@ -1,4 +1,5 @@
 # hello-world
 first repository
-
-yo der hvad sker der
+skinke 
+yo
+Her står der noget mere og jeg sletter også noget
